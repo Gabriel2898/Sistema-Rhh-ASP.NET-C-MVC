@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Datos.dll
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+c:\users\user\documents\visual studio 2012\Projects\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\user\Desktop\GestionRhh\GestionRhhDef\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
